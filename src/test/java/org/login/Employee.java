@@ -16,7 +16,6 @@ public class Employee {
 		Thread.sleep(3000);
 		driver.get("https://www.facebook.com/");
 		System.out.println("I made a change");
-		System.out.println("I made a change");
 		
 	}
 
